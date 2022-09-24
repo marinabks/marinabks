@@ -15,18 +15,18 @@ import java.util.Date;
 import java.util.Scanner;
 
 /**
- * @author maris
+ * @author mbakkos
  *
  */
-public class FIleIO {
+public class FileIO {
 	private File file;
 	/**
 	 * 
 	 */
-	public FIleIO() {
-		this.file = new File("TestFoler/textfile.txt");
+	public FileIO() {
+		this.file = new File("TestFolder/textfile.txt");
 	}
-	public FIleIO(String fileName) {
+	public FileIO(String fileName) {
 		//C:\Users\mbakkos\Desktop\TestFolder
 		//Absolute file path
 		this.file = new File(System.getProperty("user.home") + File.separator + "Desktop" + File.separator + "TestFolder" +
