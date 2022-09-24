@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marinabks
+- 👀 I’m interested in Java and SQL
+- 🌱 I’m currently learning SQL!
+- 📫 How to reach me --> marinabakkos@gmail.com
